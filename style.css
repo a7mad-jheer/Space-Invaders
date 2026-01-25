@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    font-family: cursive;
+}
+
+#board {
+    background-color: #111;
+}
